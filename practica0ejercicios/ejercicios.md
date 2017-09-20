@@ -12,9 +12,6 @@ Para crear las **claves**:
 Para **commits**:
 
 ![](https://github.com/terceranexus6/EjerciciosIV/blob/master/practica0ejercicios/images/git_commit.png)
-
-Otras:
-
 ![](https://github.com/terceranexus6/EjerciciosIV/blob/master/practica0ejercicios/images/probando_git.png)
 ![](https://github.com/terceranexus6/EjerciciosIV/blob/master/practica0ejercicios/images/probando_git2.png)
 
