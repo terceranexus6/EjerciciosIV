@@ -6,15 +6,15 @@ En las siguientes capturas muestro algunos comandos de git, primero para crear l
 
 Para crear las **claves**:
 
-![](https://github.com/terceranexus6/EjerciciosIV/images/creando_claves.png)
-![](https://github.com/terceranexus6/EjerciciosIV/images/creando_claves2.png)
+![](https://github.com/terceranexus6/EjerciciosIV/practica0ejercicios/images/creando_claves.png)
+![](https://github.com/terceranexus6/EjerciciosIV/practica0ejerciciosimages/creando_claves2.png)
 
 Para **commits**:
 
-![](https://github.com/terceranexus6/EjerciciosIV/images/git_commit.png)
+![](https://github.com/terceranexus6/EjerciciosIV/practica0ejercicios/images/git_commit.png)
 
 Otras:
 
-![](https://github.com/terceranexus6/EjerciciosIV/images/probando_git.png)
-![](https://github.com/terceranexus6/EjerciciosIV/images/probando_git2.png)
+![](https://github.com/terceranexus6/EjerciciosIV/practica0ejercicios/images/probando_git.png)
+![](https://github.com/terceranexus6/EjerciciosIV/practica0ejercicios/images/probando_git2.png)
 
