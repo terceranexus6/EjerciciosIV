@@ -6,8 +6,8 @@ En las siguientes capturas muestro algunos comandos de git, primero para crear l
 
 Para crear las **claves**:
 
-![](https://github.com/terceranexus6/EjerciciosIV/practica0ejercicios/images/creando_claves.png)
-![](https://github.com/terceranexus6/EjerciciosIV/practica0ejerciciosimages/creando_claves2.png)
+![](https://github.com/terceranexus6/EjerciciosIV/blob/master/practica0ejercicios/images/creando_claves.png)
+![](https://github.com/terceranexus6/EjerciciosIV/blob/master/practica0ejercicios/images/creando_claves2.png)
 
 Para **commits**:
 
