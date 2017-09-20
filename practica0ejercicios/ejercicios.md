@@ -1,6 +1,6 @@
 #  Primer Hito
 
-En esta práctica he hecho algunas prácticas con Git, he creado dos repositorios (uno para el proyecto de la asignatura y otro para los ejercicios), he consultado las distintas licencias, he pensado en qué proyecto hacer y he investigado qué herramientas usar. 
+En esta práctica he hecho algunas prácticas con Git, he creado dos repositorios (uno para el [proyecto de la asignatura](https://github.com/terceranexus6/MappingInternetCensorship) y [otro](https://github.com/terceranexus6/EjerciciosIV) para los ejercicios), he consultado las distintas licencias, he pensado en qué proyecto hacer y he investigado qué herramientas usar. 
 
 En las siguientes capturas muestro algunos comandos de git, primero para crear las claves y luego para hacer los commits.
 
